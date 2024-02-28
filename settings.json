@@ -1,0 +1,41 @@
+{
+    "turns": 5,
+    "level": 2,
+    "score": {
+        "win": 0,
+        "lost": 1
+    },
+    "words": {
+        "easy": [
+            "rat",
+            "toe",
+            "sun",
+            "map",
+            "time",
+            "tune",
+            "mind",
+            "bath",
+            "pie"
+        ],
+        "medium": [
+            "track",
+            "power",
+            "horse",
+            "mouse",
+            "sweet",
+            "earth"
+        ],
+        "hard": [
+            "popular",
+            "mercury",
+            "universe",
+            "philanthropist",
+            "charity",
+            "malicious",
+            "extravagant",
+            "malevolent",
+            "hard",
+            "game"
+        ]
+    }
+}
